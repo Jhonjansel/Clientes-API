@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IOEqDslfwcMlZmE++NTsfuu9VOz+5saSwLdtlC3My8pPywLQXzatGmzlXI/VomWzuPUq3KunlpwO8bWlDh0pKA==",
+  "success": true,
+  "projectFilePath": "/Users/jhonjanselhilariotorres/Downloads/Clientes-API/Clientes-API.csproj",
+  "expectedPackageFiles": [
+    "/Users/jhonjanselhilariotorres/.nuget/packages/system.security.permissions/10.0.5/system.security.permissions.10.0.5.nupkg.sha512",
+    "/Users/jhonjanselhilariotorres/.nuget/packages/system.windows.extensions/10.0.5/system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
